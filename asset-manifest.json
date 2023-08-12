@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Crud-Tareas-React-TypeScript/static/css/main.896806f5.css",
-    "main.js": "/Crud-Tareas-React-TypeScript/static/js/main.28d83ae7.js",
-    "static/js/787.a763b153.chunk.js": "/Crud-Tareas-React-TypeScript/static/js/787.a763b153.chunk.js",
-    "index.html": "/Crud-Tareas-React-TypeScript/index.html",
-    "main.896806f5.css.map": "/Crud-Tareas-React-TypeScript/static/css/main.896806f5.css.map",
-    "main.28d83ae7.js.map": "/Crud-Tareas-React-TypeScript/static/js/main.28d83ae7.js.map",
-    "787.a763b153.chunk.js.map": "/Crud-Tareas-React-TypeScript/static/js/787.a763b153.chunk.js.map"
+    "main.css": "/crud-tareas-react-typescript/static/css/main.896806f5.css",
+    "main.js": "/crud-tareas-react-typescript/static/js/main.d9a6ad70.js",
+    "static/js/787.a763b153.chunk.js": "/crud-tareas-react-typescript/static/js/787.a763b153.chunk.js",
+    "index.html": "/crud-tareas-react-typescript/index.html",
+    "main.896806f5.css.map": "/crud-tareas-react-typescript/static/css/main.896806f5.css.map",
+    "main.d9a6ad70.js.map": "/crud-tareas-react-typescript/static/js/main.d9a6ad70.js.map",
+    "787.a763b153.chunk.js.map": "/crud-tareas-react-typescript/static/js/787.a763b153.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.896806f5.css",
-    "static/js/main.28d83ae7.js"
+    "static/js/main.d9a6ad70.js"
   ]
 }
