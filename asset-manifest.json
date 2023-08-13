@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Crud-Tareas-React-TypeScript/static/css/main.896806f5.css",
-    "main.js": "/Crud-Tareas-React-TypeScript/static/js/main.a9ea6efc.js",
+    "main.js": "/Crud-Tareas-React-TypeScript/static/js/main.1d8e057f.js",
     "static/js/787.a763b153.chunk.js": "/Crud-Tareas-React-TypeScript/static/js/787.a763b153.chunk.js",
     "index.html": "/Crud-Tareas-React-TypeScript/index.html",
     "main.896806f5.css.map": "/Crud-Tareas-React-TypeScript/static/css/main.896806f5.css.map",
-    "main.a9ea6efc.js.map": "/Crud-Tareas-React-TypeScript/static/js/main.a9ea6efc.js.map",
+    "main.1d8e057f.js.map": "/Crud-Tareas-React-TypeScript/static/js/main.1d8e057f.js.map",
     "787.a763b153.chunk.js.map": "/Crud-Tareas-React-TypeScript/static/js/787.a763b153.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.896806f5.css",
-    "static/js/main.a9ea6efc.js"
+    "static/js/main.1d8e057f.js"
   ]
 }
